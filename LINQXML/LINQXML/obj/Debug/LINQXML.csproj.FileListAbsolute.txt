@@ -1,0 +1,7 @@
+C:\Users\José Ramón Sagarna\source\repos\LINQXML\LINQXML\bin\Debug\LINQXML.exe.config
+C:\Users\José Ramón Sagarna\source\repos\LINQXML\LINQXML\bin\Debug\LINQXML.exe
+C:\Users\José Ramón Sagarna\source\repos\LINQXML\LINQXML\bin\Debug\LINQXML.pdb
+C:\Users\José Ramón Sagarna\source\repos\LINQXML\LINQXML\obj\Debug\LINQXML.csprojAssemblyReference.cache
+C:\Users\José Ramón Sagarna\source\repos\LINQXML\LINQXML\obj\Debug\LINQXML.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\LINQXML\LINQXML\obj\Debug\LINQXML.exe
+C:\Users\José Ramón Sagarna\source\repos\LINQXML\LINQXML\obj\Debug\LINQXML.pdb

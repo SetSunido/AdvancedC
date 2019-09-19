@@ -1,0 +1,7 @@
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje2\Lenguaje2\bin\Debug\Lenguaje2.exe.config
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje2\Lenguaje2\bin\Debug\Lenguaje2.exe
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje2\Lenguaje2\bin\Debug\Lenguaje2.pdb
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje2\Lenguaje2\obj\Debug\Lenguaje2.csprojAssemblyReference.cache
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje2\Lenguaje2\obj\Debug\Lenguaje2.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje2\Lenguaje2\obj\Debug\Lenguaje2.exe
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje2\Lenguaje2\obj\Debug\Lenguaje2.pdb

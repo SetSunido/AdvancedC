@@ -1,0 +1,7 @@
+C:\Users\José Ramón Sagarna\source\repos\Multiproceso\Tareas\bin\Debug\Tareas.exe.config
+C:\Users\José Ramón Sagarna\source\repos\Multiproceso\Tareas\bin\Debug\Tareas.exe
+C:\Users\José Ramón Sagarna\source\repos\Multiproceso\Tareas\bin\Debug\Tareas.pdb
+C:\Users\José Ramón Sagarna\source\repos\Multiproceso\Tareas\obj\Debug\Tareas.csprojAssemblyReference.cache
+C:\Users\José Ramón Sagarna\source\repos\Multiproceso\Tareas\obj\Debug\Tareas.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\Multiproceso\Tareas\obj\Debug\Tareas.exe
+C:\Users\José Ramón Sagarna\source\repos\Multiproceso\Tareas\obj\Debug\Tareas.pdb

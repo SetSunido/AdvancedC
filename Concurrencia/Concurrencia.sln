@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrencia", "Concurrencia\Concurrencia.csproj", "{BE20129A-D3C8-4EA0-99BF-F29B8C313509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE20129A-D3C8-4EA0-99BF-F29B8C313509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE20129A-D3C8-4EA0-99BF-F29B8C313509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE20129A-D3C8-4EA0-99BF-F29B8C313509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE20129A-D3C8-4EA0-99BF-F29B8C313509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA3AF15-A818-46AE-8593-EF97A44F00E3}
+	EndGlobalSection
+EndGlobal

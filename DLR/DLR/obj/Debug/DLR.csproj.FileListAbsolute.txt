@@ -1,0 +1,8 @@
+C:\Users\José Ramón Sagarna\source\repos\DLR\DLR\bin\Debug\DLR.exe.config
+C:\Users\José Ramón Sagarna\source\repos\DLR\DLR\bin\Debug\DLR.exe
+C:\Users\José Ramón Sagarna\source\repos\DLR\DLR\bin\Debug\DLR.pdb
+C:\Users\José Ramón Sagarna\source\repos\DLR\DLR\obj\Debug\DLR.csprojAssemblyReference.cache
+C:\Users\José Ramón Sagarna\source\repos\DLR\DLR\obj\Debug\DLR.csproj.ResolveComReference.cache
+C:\Users\José Ramón Sagarna\source\repos\DLR\DLR\obj\Debug\DLR.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\DLR\DLR\obj\Debug\DLR.exe
+C:\Users\José Ramón Sagarna\source\repos\DLR\DLR\obj\Debug\DLR.pdb

@@ -1,0 +1,7 @@
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje\ConsoleApp1\obj\Debug\Lenguaje.csprojAssemblyReference.cache
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje\ConsoleApp1\obj\Debug\Lenguaje.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\José Ramón Sagarna\source\repos\Lenguaje\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

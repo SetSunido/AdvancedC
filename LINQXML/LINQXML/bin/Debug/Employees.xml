@@ -1,0 +1,42 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<employees>
+  <employee>
+    <empid>1</empid>
+    <name>Daniel</name>
+    <gender>Male</gender>
+    <phone type ="Home">915256767</phone>
+    <phone type ="mobile">678565654</phone>
+    <address>
+      <street>Calle Manga</street>
+      <city>Parla</city>
+      <province>Madrid</province>
+      <zip>28078</zip>
+    </address>
+  </employee>
+  <employee>
+    <empid>2</empid>
+    <name>Manuel</name>
+    <gender>Male</gender>
+    <phone type ="Home">915256367</phone>
+    <phone type ="mobile">678565354</phone>
+    <address>
+      <street>Calle Morgen</street>
+      <city>Parla</city>
+      <province>Madrid</province>
+      <zip>28078</zip>
+    </address>
+  </employee>
+  <employee>
+    <empid>3</empid>
+    <name>Sara</name>
+    <gender>Female</gender>
+    <phone type ="Home">915256327</phone>
+    <phone type ="mobile">678265354</phone>
+    <address>
+      <street>Calle Morgen</street>
+      <city>Madrid</city>
+      <province>Madrid</province>
+      <zip>28108</zip>
+    </address>
+  </employee>
+</employees>
