@@ -1,0 +1,7 @@
+C:\Users\José Ramón Sagarna\source\repos\Atributos\Atributos\bin\Debug\Atributos.exe.config
+C:\Users\José Ramón Sagarna\source\repos\Atributos\Atributos\bin\Debug\Atributos.exe
+C:\Users\José Ramón Sagarna\source\repos\Atributos\Atributos\bin\Debug\Atributos.pdb
+C:\Users\José Ramón Sagarna\source\repos\Atributos\Atributos\obj\Debug\Atributos.csprojAssemblyReference.cache
+C:\Users\José Ramón Sagarna\source\repos\Atributos\Atributos\obj\Debug\Atributos.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\Atributos\Atributos\obj\Debug\Atributos.exe
+C:\Users\José Ramón Sagarna\source\repos\Atributos\Atributos\obj\Debug\Atributos.pdb
