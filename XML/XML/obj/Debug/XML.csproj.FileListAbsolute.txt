@@ -1,0 +1,7 @@
+C:\Users\José Ramón Sagarna\source\repos\XML\XML\bin\Debug\XML.exe.config
+C:\Users\José Ramón Sagarna\source\repos\XML\XML\bin\Debug\XML.exe
+C:\Users\José Ramón Sagarna\source\repos\XML\XML\bin\Debug\XML.pdb
+C:\Users\José Ramón Sagarna\source\repos\XML\XML\obj\Debug\XML.csprojAssemblyReference.cache
+C:\Users\José Ramón Sagarna\source\repos\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\XML\XML\obj\Debug\XML.exe
+C:\Users\José Ramón Sagarna\source\repos\XML\XML\obj\Debug\XML.pdb

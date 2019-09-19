@@ -1,0 +1,5 @@
+C:\Users\José Ramón Sagarna\source\repos\Test\Test\bin\Debug\Test.dll
+C:\Users\José Ramón Sagarna\source\repos\Test\Test\bin\Debug\Test.pdb
+C:\Users\José Ramón Sagarna\source\repos\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\Test\Test\obj\Debug\Test.dll
+C:\Users\José Ramón Sagarna\source\repos\Test\Test\obj\Debug\Test.pdb

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<libreria>
+ 
+    <libro genero ="autobiografico">
+      <titulo>La autobiografia de Benjamin Franklin</titulo>
+      <autor>
+        <nombre>Benjamin</nombre>
+        <apellido>Franklin</apellido>
+        
+      </autor>
+      <precio>9.99</precio>
+    </libro>
+ 
+
+  <libro genero= "novel">
+      <titulo>El Confidente</titulo>
+      <autor>
+        <nombre>HErman</nombre>
+        <apellido>Melville</apellido>
+
+      </autor>
+      <precio>14.99</precio> 
+    </libro>
+  
+</libreria>

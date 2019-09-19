@@ -1,0 +1,7 @@
+C:\Users\José Ramón Sagarna\source\repos\Test\TrabajoEnsamblador\bin\Debug\TrabajoEnsamblador.exe.config
+C:\Users\José Ramón Sagarna\source\repos\Test\TrabajoEnsamblador\bin\Debug\TrabajoEnsamblador.exe
+C:\Users\José Ramón Sagarna\source\repos\Test\TrabajoEnsamblador\bin\Debug\TrabajoEnsamblador.pdb
+C:\Users\José Ramón Sagarna\source\repos\Test\TrabajoEnsamblador\obj\Debug\TrabajoEnsamblador.csprojAssemblyReference.cache
+C:\Users\José Ramón Sagarna\source\repos\Test\TrabajoEnsamblador\obj\Debug\TrabajoEnsamblador.csproj.CoreCompileInputs.cache
+C:\Users\José Ramón Sagarna\source\repos\Test\TrabajoEnsamblador\obj\Debug\TrabajoEnsamblador.exe
+C:\Users\José Ramón Sagarna\source\repos\Test\TrabajoEnsamblador\obj\Debug\TrabajoEnsamblador.pdb
